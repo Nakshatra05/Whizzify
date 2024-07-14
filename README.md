@@ -1,10 +1,10 @@
-# Quizzify
+# Whizzify
 
-Quizzify is a Web3 platform designed to revolutionize how organizations assess participant engagement during sessions. By leveraging blockchain technology, Quizzify automates quiz generation and reward distribution, ensuring a seamless and efficient process for both organizations and participants.
+Whizzify is a Web3 platform designed to revolutionize how organizations assess participant engagement during sessions. By leveraging AI and blockchain technology, Whizzify automates quiz generation and reward distribution, ensuring a seamless and efficient process for both organizations and participants.
 
 ## Project Overview
 
-Quizzify aims to provide organizations with an easy-to-use tool for creating quizzes based on session content. The platform generates quiz questions from the provided material and instantly rewards participants who answer correctly, fostering active engagement and participation.
+Whizzify aims to provide organizations with an easy-to-use tool for creating quizzes based on session content. The platform generates quiz questions from the provided material and instantly rewards participants who answer correctly, fostering active engagement and participation.
 
 ## Problem
 
@@ -15,10 +15,10 @@ Organizations often face challenges in assessing participant engagement and dist
 
 ## Solution
 
-Quizzify addresses these challenges by offering:
-- **Automated Quiz Generation**: Upload session content, and Quizzify generates relevant quiz questions.
+Whizzify addresses these challenges by offering:
+- **Automated Quiz Generation**: Upload session content, and Whizzify generates relevant quiz questions.
 - **Instant Rewards**: Participants receive rewards instantly through their Freighter Wallets for correct answers.
-- **Streamlined Process**: Organizations simply provide the session content and initial funds for rewards, and Quizzify handles the rest.
+- **Streamlined Process**: Organizations simply provide the session content and initial funds for rewards, and Whizzify handles the rest.
 
 ## Technologies Used
 
@@ -32,9 +32,9 @@ Quizzify addresses these challenges by offering:
 ### For Organizations
 
 1. **Active Participation Assessment**: Easily assess participant engagement with quizzes based on session content.
-2. **Automated Quiz Generation**: Upload content, and let Quizzify generate tailored quiz questions.
+2. **Automated Quiz Generation**: Upload content, and let Whizzify generate tailored quiz questions.
 3. **Instant Rewards**: Incentivize engagement with immediate rewards distributed via Freighter Wallets.
-4. **Fund Management**: Transfer initial funds to Quizzify for seamless reward distribution.
+4. **Fund Management**: Transfer initial funds to Whizzify for seamless reward distribution.
 
 ### Solving Traditional Problems
 
@@ -50,10 +50,10 @@ Quizzify addresses these challenges by offering:
 
 ## How it Works
 
-1. **Upload Content**: Organizations upload session content to the Quizzify platform.
+1. **Upload Content**: Organizations upload session content to the Whizzify platform.
 2. **Quiz Generation**: The platform processes the content and generates quiz questions.
-3. **Fund Transfer**: Organizations transfer initial funds to Quizzify for rewarding participants.
+3. **Fund Transfer**: Organizations transfer initial funds to Whizzify for rewarding participants.
 4. **Participant Engagement**: Participants take quizzes through the platform.
 5. **Instant Rewards**: Correct answers are rewarded instantly in participants' Freighter Wallets.
 
-Quizzify streamlines quiz creation and reward management, providing a comprehensive solution that enhances organizational efficiency and participant engagement.
+Whizzify streamlines quiz creation and reward management, providing a comprehensive solution that enhances organizational efficiency and participant engagement.
