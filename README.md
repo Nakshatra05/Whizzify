@@ -1,6 +1,6 @@
 # Whizzify
 
-Whizzify is a Web3 platform designed to revolutionize how organizations assess participant engagement during sessions. By leveraging AI and blockchain technology, Whizzify automates quiz generation and reward distribution, ensuring a seamless and efficient process for both organizations and participants.
+Whizzifyy is a Web3 platform designed to revolutionize how organizations assess participant engagement during sessions. By leveraging AI and blockchain technology, Whizzify automates quiz generation and reward distribution, ensuring a seamless and efficient process for both organizations and participants.
 
 ## Project Overview
 
